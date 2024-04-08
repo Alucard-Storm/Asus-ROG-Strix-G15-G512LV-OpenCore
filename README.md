@@ -19,7 +19,9 @@
  
 <h1>What works</h1>
 <li>Wifi</li>
-<li>Eathernet</li>
+<li>Ethernet</li>
+<li>Bluetooth</li>
+<li>Airdrop</li>
 <li>iMessages</li>
 <li>Trackpad</li>
 <li>144hz display</li>
@@ -27,8 +29,7 @@
 <li>etc</li>
  
 <h1>What does NOT work</h1>
-<li>Bluetooth</li>
-<li>Airdrop (due to bluetooth limited support)</li>
+<li>Sleep</li>
 <li>HDMI and USB-C DisplayPort output (they're <b>wired</b> to the Nvidia graphic, there's no way to use them in hackintosh)</li>
  
 <h1>Credits</h1>
